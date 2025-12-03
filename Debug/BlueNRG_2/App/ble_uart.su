@@ -1,0 +1,3 @@
+../BlueNRG_2/App/ble_uart.c:29:12:BLE_UART_AddService	80	static
+../BlueNRG_2/App/ble_uart.c:77:12:BLE_UART_Send	24	static
+../BlueNRG_2/App/ble_uart.c:91:6:BLE_UART_RxHandler	16	static

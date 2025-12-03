@@ -1,0 +1,16 @@
+../BlueNRG_2/App/app_bluenrg_2.c:122:6:MX_BlueNRG_2_Init	16	static
+../BlueNRG_2/App/app_bluenrg_2.c:175:6:MX_BlueNRG_2_Process	8	static
+../BlueNRG_2/App/app_bluenrg_2.c:195:13:User_Init	8	static
+../BlueNRG_2/App/app_bluenrg_2.c:209:9:Sensor_DeviceInit	56	static
+../BlueNRG_2/App/app_bluenrg_2.c:382:13:User_Process	32	static
+../BlueNRG_2/App/app_bluenrg_2.c:511:13:Set_Random_Environmental_Values	48	static
+../BlueNRG_2/App/app_bluenrg_2.c:523:13:Set_Random_Motion_Values	1032	static
+../BlueNRG_2/App/app_bluenrg_2.c:564:13:Reset_Motion_Values	4	static
+../BlueNRG_2/App/app_bluenrg_2.c:587:9:getBlueNRGVersion	48	static
+../BlueNRG_2/App/app_bluenrg_2.c:611:6:BSP_PB_Callback	16	static
+../BlueNRG_2/App/app_bluenrg_2.c:624:6:hci_le_connection_complete_event	24	static
+../BlueNRG_2/App/app_bluenrg_2.c:653:6:hci_disconnection_complete_event	16	static
+../BlueNRG_2/App/app_bluenrg_2.c:675:6:aci_gatt_read_permit_req_event	16	static
+../BlueNRG_2/App/app_bluenrg_2.c:687:6:aci_gatt_attribute_modified_event	32	static
+../BlueNRG_2/App/app_bluenrg_2.c:716:6:aci_gap_pass_key_req_event	24	static
+../BlueNRG_2/App/app_bluenrg_2.c:736:6:aci_gap_pairing_complete_event	16	static
