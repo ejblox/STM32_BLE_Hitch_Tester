@@ -24,4 +24,4 @@ void BLE_UART_RxHandler(uint8_t *data, uint16_t len);
 
 
 
-#endif /* APP_BLE_UART_H_ */
+#endif
